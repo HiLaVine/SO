@@ -1,0 +1,12 @@
+http://procesosenelso.blogspot.com/2012/06/creacion-y-terminacion-de-procesos.html
+https://es.wikipedia.org/wiki/Hilo_(informática)
+https://es.wikipedia.org/wiki/Memoria_compartida
+https://www.fing.edu.uy/tecnoinf/mvd/cursos/so/material/teo/so05-hilos.pdf
+https://danielpozoblog.wordpress.com/2016/09/28/sistemas-operativos-semaforos/
+https://es.wikipedia.org/wiki/Problema_productor-consumidor#Solución_usando_semáforos
+https://www.ecured.cu/Planificación_de_procesos_en_un_sistema_operativo
+https://www.fing.edu.uy/inco/cursos/sistoper/recursosTeoricos/6-SO-Teo-Planificacion.pdf
+https://sites.google.com/site/sistemasoperativosdrak1/home/6-planificacion-garantizadadrak1
+https://1984.lsi.us.es/wiki-ssoo/index.php/Planificación_de_procesos_de_tiempo_real#:~:text=¿Qué%20es%20un%20sistema%20operativo,de%20finalización%20que%20tienen%20establecidos.
+http://ocw.innova.uned.es/ocwuniversia/Ing_tecnico_infor_sistemas/SO_II/contenidos_html/ims_import_5/tema_6_03.htm#:~:text=Planificación%20tradicional%20en%20UNIX&text=Cada%20proceso%20tiene%20asignada%20una,prioridad%20que%20maneja%20el%20planificador.
+https://www.cartagena99.com/recursos/alumnos/apuntes/Tema2.L3-Hilos%20y%20Procesos.pdf

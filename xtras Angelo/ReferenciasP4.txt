@@ -1,0 +1,10 @@
+https://es.slideshare.net/sped1009/problemas-de-sincronizacion-de-procesos 
+http://umh2812.edu.umh.es/wp-content/uploads/sites/510/2013/02/sincronizacion_procesos.pdf
+https://cs.uns.edu.ar/~so/data/apuntes/SO-2019-mod%2005.pdf
+https://sistemasoperativos.angelfire.com/html/2.4.2.html#:~:text=La%20sincronizacion%20entre%20procesos%20es,%2FS%2C%20de%20procesos%20contendientes.
+https://es.wikipedia.org/wiki/Semáforo_(informática)
+https://www.somosbinarios.es/programacion-paralela-en-c-semaforos/
+https://www.dlsi.ua.es/asignaturas/pc/teoria/t04.pdf
+https://1984.lsi.us.es/wiki-ssoo/index.php/Semáforos#:~:text=Los%20semáforos%20permiten%20al%20programador,de%20dos%20o%20más%20procesos.&text=Los%20semáforos%20son%20un%20tipo,que%20siempre%20vale%20>%3D%200.
+https://www.ctr.unican.es/asignaturas/procodis_3_II/Doc/Procodis_2_03.pdf
+https://ricardogeek.com/problemas-clasicos-de-sincronizacion/
